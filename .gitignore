@@ -1,0 +1,17 @@
+# text files
+*.txt
+
+# trials with cpp
+trial.cpp
+
+# zip
+pa01testing.zip
+
+# executables
+*.exe
+
+# bash tests
+*.sh
+
+# pdf
+*.pdf
